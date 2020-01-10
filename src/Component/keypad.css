@@ -1,0 +1,17 @@
+.keypad-wrapper {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.4em;
+  background-color: #f5f0e5;
+  color: #0f2739;
+  flex: 1;
+}
+
+.operator {
+  background-color: #ffba00;
+  color: #0f2739;
+  font-weight: bold;
+}
