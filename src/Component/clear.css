@@ -10,3 +10,11 @@
   flex: 1;
   cursor: pointer;
 }
+
+.clear-button:hover {
+  background-color: rgba(40, 44, 52, 0.8);
+}
+
+.clear-button:active {
+  transform: scale(0.92);
+}
