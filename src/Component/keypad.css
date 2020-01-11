@@ -8,10 +8,12 @@
   background-color: #f5f0e5;
   color: #0f2739;
   flex: 1;
+  cursor: pointer;
 }
 
 .operator {
   background-color: #ffba00;
   color: #0f2739;
   font-weight: bold;
+  cursor: pointer;
 }
